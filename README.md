@@ -8,7 +8,7 @@ A simple interactive Valentine website built with HTML, CSS, and JavaScript.
 - 💖 Floating heart animation
 - ❤️ Yes / 💔 No interaction
 - 🌸 Romantic pink theme
-- 🌫 Sad mode (grey theme + background change + 💔 )
+- 🌫 Sad mode ( background change + 💔 )
 
 ## Well you can see in  Live Demo
 
